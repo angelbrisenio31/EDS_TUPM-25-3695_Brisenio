@@ -1,0 +1,18 @@
+MODEL PERFORMANCE RESULTS,,,
+Model,MAE,RMSE,R2
+Linear Regression,0.658349,0.903697,-0.001805
+Random Forest,0.660689,0.906928,-0.008982
+XGBoost,0.660357,0.906475,-0.007975
+,,,
+TOP FEATURES,,,
+Feature,Importance,,
+Feature_0,0.446148,,
+Feature_6,0.117609,,
+Feature_10,0.074909,,
+Feature_13,0.055192,,
+Feature_2,0.054205,,
+Feature_3,0.042931,,
+Feature_5,0.036225,,
+Feature_11,0.035984,,
+Feature_12,0.027928,,
+Feature_8,0.025904,,
